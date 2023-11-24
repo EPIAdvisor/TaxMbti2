@@ -212,12 +212,16 @@ const goResult = () => {
   res_img2.title = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img2_div.appendChild(res_img2);
 
+var shopLink0 = "f"
 var shopLink1 = "a";
 var shopLink2 = "b";
 var shopLink3 = "c";
 var shopLink4 = "d";
 var shopLink5 = "e";
 
+if(hyungu.innerHTML == "당신의 고유 MBTI는... INTJ1000"){
+  shopLink0 = "https://www.naver.com/";
+} 
 if(hyungu.innerHTML == "당신의 고유 MBTI는... INTJ1000"){
   shopLink1 = "https://etfpi.cafe24.com/surl/O/1961";
 }  
@@ -8222,7 +8226,8 @@ if(hyungu.innerHTML == "당신의 고유 MBTI는... INTJ1000"){
 }
 
 
-
+const hyungyuLink0 = document.querySelector(".hyungyuLink0");
+hyungyuLink0.setAttribute("href",shopLink0);
 const hyungyuLink1 = document.querySelector(".hyungyuLink1");
 hyungyuLink1.setAttribute("href",shopLink1);
 const hyungyuLink2 = document.querySelector(".hyungyuLink2");
