@@ -220,7 +220,7 @@ var shopLink4 = "d";
 var shopLink5 = "e";
 
 if(hyungu.innerHTML == "당신의 고유 MBTI는... INTJ1000"){
-  shopLink0 = "https://www.naver.com/";
+  shopLink0 = "https://etfdiy.imweb.me/archive/?idx=12";
 } 
 if(hyungu.innerHTML == "당신의 고유 MBTI는... INTJ1000"){
   shopLink1 = "https://etfpi.cafe24.com/surl/O/1961";
