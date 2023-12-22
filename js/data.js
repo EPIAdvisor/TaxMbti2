@@ -2,8 +2,9 @@ const qnaList = [
   {
     q: '1. 둘 중 원하는 옵션을 선택하세요',
     a: [
-      { answer: 'a. 발행어음', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 저축금리', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 증권사 발행어음', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 저축은행 예금', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'c. 금융지주 신종 자본증권', score: 30, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
