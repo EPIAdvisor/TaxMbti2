@@ -19,11 +19,11 @@ const qnaList = [
   {
     q: '3. 투자테마의 포트폴리오 비중을 선택하세요',
     a: [
-      { answer: 'a. 10%', score: 1, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 20%', score: 2, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 30%', score: 3, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 40%', score: 4, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 50%', score: 5, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 10%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'a. 20%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'a. 30%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'a. 40%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 50%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   }
 ]
