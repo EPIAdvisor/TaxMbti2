@@ -85,27 +85,27 @@ const calcScore5 = () => {
 
 const sortResult = (point) => {
   let num = 0;
-  if (point = 110) {
+  if (point == 110) {
     num = 0;
-  } else if (point = 120) {
+  } else if (point == 120) {
     num = 1;
-  } else if (point = 130) {
+  } else if (point == 130) {
     num = 2;
-  } else if (point = 210) {
+  } else if (point == 210) {
     num = 3;
-  } else if (point = 220) {
+  } else if (point == 220) {
     num = 4;
-  } else if (point = 230) {
+  } else if (point == 230) {
     num = 5;
-  } else if (point = 310) {
+  } else if (point == 310) {
     num = 6;
-  } else if (point = 320) {
+  } else if (point == 320) {
     num = 7;
-  } else if (point = 330) {
+  } else if (point == 330) {
     num = 8;
-  } else if (point = 410) {
+  } else if (point == 410) {
     num = 9;
-  } else if (point = 420) {
+  } else if (point == 420) {
     num = 10;
   } else {
     num = 11;
