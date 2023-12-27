@@ -5,7 +5,7 @@ const u_name = document.querySelector('input[type=text]');
 const wrap = document.getElementById('wrap');
 const tabletMQL = window.matchMedia("all and (min-width: 768px)");
 const pcMQL = window.matchMedia("all and (min-width: 1024px)");
-const ENDPOINT = 3;
+const ENDPOINT = 2;
 const select = [];
 let qIdx = -1;
 
@@ -204,7 +204,6 @@ const goResult = () => {
   res_img2.src = img2_url;
   res_img2.alt = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img2.title = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
-  res_img2_div.appendChild(res_img2);
 
 var shopLink1 = "a";
 var shopLink2 = "b";
