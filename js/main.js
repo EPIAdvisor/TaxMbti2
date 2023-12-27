@@ -196,11 +196,6 @@ const goResult = () => {
   const res_img2_div = document.querySelector('.art2');
 
   
-  pTitle.innerHTML = '당신의 자산 비중 분석';
-  res_point.innerHTML = '예금 비중: ' + (point / 2) + '% / 투자 비중: ' + (100 - point / 2) + '% ';
-  pin.style.marginLeft = point/2 + '%'; 
-  
-  res_img.src = img_url;
   res_img.alt = infoList[grade].name + infoList3[grade3_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img.title = infoList[grade].name + infoList3[grade3_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img_div.appendChild(res_img);
