@@ -37,7 +37,7 @@ const infoList = [
     mLeft: '20%',
     name: '저축은행 예금 + TIGER 차이나HSCEI ETF',
     name3: '1',
-    name2: '<a href="https://etfdiy.imweb.me/39/?idx=1067" target="_blank">나만의 고유EMB 성과 보기</a>',
+    name2: '<a href="https://etfdiy.imweb.me/39/?idx=1067" target="_blank">나만의 고유EMD 성과 보기</a>',
     desc2: '주식 20%, 채권 80% 비중에 대체자산 투자',
     desc_1: ' 56%',
     desc_2: ' 14%',
