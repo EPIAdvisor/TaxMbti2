@@ -194,12 +194,17 @@ const goResult = () => {
   const desc_3 = document.querySelector('.res');
   const res_img2 = document.createElement('img');
   const res_img2_div = document.querySelector('.art2');
+  const name2Element = document.createElement('div');
 
+  const name2Value = infoList[grade].name2;
+
+  name2Element.innerHTML = name2Value;
+  name2Element.className = 'name2-class';
   
   res_img.alt = infoList[grade].name
   res_img.title = infoList[grade].name
   animal.innerHTML = infoList[grade].name  
-  desc.innerHTML = infoList[grade].desc
+  res_img2_div.after(name2Element);
   res_img2.src = img2_url;
   res_img2.alt = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img2.title = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
