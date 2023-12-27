@@ -15,16 +15,6 @@ const qnaList = [
       { answer: 'a. S&P500', score: 300, score2: 0, score3: 0, score4: 0, score5: 0 },
       { answer: 'b. 나스닥', score: 400, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
-  },
-  {
-    q: '3. 투자테마의 포트폴리오 비중을 선택하세요',
-    a: [
-      { answer: 'a. 10%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 20%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 30%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 40%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 50%', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 }
-    ]
   }
 ]
 
