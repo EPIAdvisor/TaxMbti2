@@ -8,14 +8,6 @@ const qnaList = [
     ]
   },
   {
-    q: '1. 상품을 선택하세요',
-    a: [
-      { answer: 'a. 증권사 발행어음', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 저축은행 예금', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'c. 금융지주 신종자본증권', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 }
-    ]
-  },
-  {
     q: '2. 투자 테마를 선택하세요',
     a: [
       { answer: 'a. 2차전지', score: 100, score2: 0, score3: 0, score4: 0, score5: 0 },
