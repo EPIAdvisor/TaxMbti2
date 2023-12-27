@@ -199,6 +199,7 @@ const goResult = () => {
   res_img.alt = infoList[grade].name
   res_img.title = infoList[grade].name
   animal.innerHTML = infoList[grade].name  
+  desc.innerHTML = infoList[grade].desc
   res_img2.src = img2_url;
   res_img2.alt = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
   res_img2.title = infoList[grade].name + infoList5[grade5_2].name + infoList2[grade2_2].name + infoList4[grade4_2].name;
