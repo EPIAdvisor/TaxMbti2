@@ -25,7 +25,7 @@ const infoList = [
     mLeft: '20%',
     name: '증권사 발행어음 + KODEX 2차전지 ETF',
     name3: '1',
-    name2: '<a href="https://etfdiy.imweb.me/39/?idx=1068" target="_blank">나만의 고유EMB 성과 보기</a>'
+    name2: '<a href="https://etfdiy.imweb.me/39/?idx=1068" target="_blank">나만의 고유EMB 성과 보기</a>',
     desc: '- I: 방어적 투자형으로 안전자산 선호도가 높습니다.' + '<br>' + '(자산배분: 주식 20%, 채권 80%로 보수적인 포트폴리오)',
     desc2: '주식 20%, 채권 80% 비중에 대체자산 투자',
     desc_1: ' 56%',
