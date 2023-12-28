@@ -11,9 +11,9 @@ const qnaList = [
     q: '2. 투자 테마를 선택하세요',
     a: [
       { answer: 'a. 차이나HSCEI', score: 100, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 한국KOSPI200', score: 200, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'a. 미국S&P500', score: 300, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 미국나스닥', score: 400, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'b. 한국KOSPI200', score: 200, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'c. 미국S&P500', score: 300, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'd. 미국나스닥', score: 400, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   }
 ]
