@@ -1,6 +1,6 @@
-const url = 'https://lymin0109.github.io/financial_MBTI_test';
-const title = '[성향테스트] 나의 투자 MBTI ';
-const hash = '%23투자MBTI %233투자성향테스트 %23성향테스트 ';
+const url = 'https://suka77.github.io/ETF_Managed_Deposits/';
+const title = '[EPI] 나의 EMD 만들기 ';
+const hash = '%23나의EMD %233나의 EMD만들기 %23테스트 ';
 
 const fb = () => {
   window.open('https://www.facebook.com/sharer/sharer.php?u='
