@@ -1,19 +1,19 @@
 const qnaList = [
   {
-    q: '1. 상품을 선택하세요',
+    q: '1. 90% 구성하고 싶은 예금성 자산을 선택하세요',
     a: [
-      { answer: 'a. 증권사 발행어음', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 저축은행 예금', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'c. 금융지주 신종자본증권', score: 30, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 저축은행예금(저축은행 중앙회 회원 70개사) 평균금리 3.97%', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 발행어음(증권사 4개사) 3.654% 한국투자증권 발행금리', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'c. 금융지주발행채(신종자본증권, 후순위채) 5.4% 신한금융지주 발행금리', score: 30, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
-    q: '2. 투자 테마를 선택하세요',
+    q: '2. 10% 투자하고 싶은 테마를 선택하세요요',
     a: [
-      { answer: 'a. 차이나HSCEI', score: 100, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 한국KOSPI200', score: 200, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'c. 미국S&P500', score: 300, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'd. 미국나스닥', score: 400, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 중국 HSCEI지수 3년 수익률 -32%', score: 100, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 한국 KOSPI지수 3년 수익률 +5%', score: 200, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'c. 미국 S&P500지수 3년 수익률 +52%', score: 300, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'd. 미국 NASDAQ100지수 3년 수익률 +54%', score: 400, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   }
 ]
