@@ -20,7 +20,7 @@
 .title, h1 {
   line-height: 48px;
   line-height: 3rem;
-  font-size: 30px;
+  font-size: 20px;
   font-size: 2.5rem;
   font-weight: bolder;
   letter-spacing: -3.2px;
@@ -213,7 +213,7 @@ hr {
   .title {
     line-height: 64px;
     line-height: 4rem;
-    font-size: 38.4px;
+    font-size: 25.6px;
     font-size: 3.2rem;
   }
   .sec-tit {
@@ -246,7 +246,7 @@ hr {
   .title {
     line-height: 80px;
     line-height: 5rem;
-    font-size: 44.4px;
+    font-size: 29.6px;
     font-size: 3.7rem;
   }
   .sec-tit {
@@ -318,7 +318,7 @@ hr {
   .title {
     line-height: 88px;
     line-height: 5.5rem;
-    font-size: 50.4px;
+    font-size: 33.6px;
     font-size: 4.2rem;
   }
   .sec-tit {
