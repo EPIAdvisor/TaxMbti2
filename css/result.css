@@ -85,9 +85,9 @@
   margin: 30px 7.5%;
   width: 85%;
   line-height: 28.8px;
-  line-height: 1.8rem;
+  line-height: 3.0rem;
   font-size: 35px;
-  font-size: 3.3rem;
+  font-size: 2.7rem;
   font-weight: 350;
 }
 .desc2 {
@@ -286,9 +286,9 @@
   .desc {
     margin: 30px 7.5%;
     line-height: 32px;
-    line-height: 2rem;
+    line-height: 3rem;
     font-size: 50px;
-    font-size: 3.6rem;
+    font-size: 3.0rem;
   }
   .desc2 {
     margin: 30px 7.5%;
@@ -354,7 +354,7 @@
   }
   .desc {
     font-size: 50px;
-    font-size: 3.9rem;
+    font-size: 3.1rem;
   }
   .desc2 {
     font-size: 20.8px;
@@ -409,9 +409,9 @@
     margin: 35px 5% 50px 5%;
     width: 90%;
     line-height: 50px;
-    line-height: 2.1rem;
+    line-height: 3rem;
     font-size: 50px;
-    font-size: 1.4rem;
+    font-size: 1.1rem;
   }
   .desc2 {
     margin: 35px 5% 50px 5%;
