@@ -287,7 +287,7 @@
     margin: 30px 7.5%;
     line-height: 32px;
     line-height: 2rem;
-    font-size: 35px;
+    font-size: 50px;
     font-size: 1.2rem;
   }
   .desc2 {
@@ -353,7 +353,7 @@
     max-height: 2000px;
   }
   .desc {
-    font-size: 20.8px;
+    font-size: 50px;
     font-size: 1.3rem;
   }
   .desc2 {
@@ -408,9 +408,9 @@
   .desc {
     margin: 35px 5% 50px 5%;
     width: 90%;
-    line-height: 33.6px;
+    line-height: 50px;
     line-height: 2.1rem;
-    font-size: 35px;
+    font-size: 50px;
     font-size: 1.4rem;
   }
   .desc2 {
