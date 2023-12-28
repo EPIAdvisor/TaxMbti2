@@ -1,14 +1,14 @@
 const qnaList = [
   {
-    q: '1. 90% 구성하고 싶은 예금성 자산을 선택하세요',
+    q: '1. 예금성 자산(90%)',
     a: [
-      { answer: 'a. 저축은행예금(저축은행 중앙회 회원 70개사) 평균금리 3.97%', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 발행어음(증권사 4개사) 3.654% 한국투자증권 발행금리', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'c. 금융지주발행채(신종자본증권, 후순위채) 5.4% 신한금융지주 발행금리', score: 30, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 저축은행예금(저축은행 중앙회 회원 70개사) 평균금리<br>3.97%', score: 20, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 발행어음(증권사 4개사) 한국투자증권 발행금리<br>3.654%', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'c. 금융지주발행채(신종자본증권, 후순위채) 신한금융지주 발행금리<br>5.4%', score: 30, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
-    q: '2. 10% 투자하고 싶은 테마를 선택하세요요',
+    q: '2. 테마 ETF 투자(10%)',
     a: [
       { answer: 'a. 중국 HSCEI지수 3년 수익률 -32%', score: 100, score2: 0, score3: 0, score4: 0, score5: 0 },
       { answer: 'b. 한국 KOSPI지수 3년 수익률 +5%', score: 200, score2: 0, score3: 0, score4: 0, score5: 0 },
