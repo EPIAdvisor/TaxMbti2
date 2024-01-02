@@ -213,11 +213,6 @@ const goResult = () => {
   res_img2_div.appendChild(res_img2);
 
 var shopLink0 = "f"
-var shopLink1 = "a";
-var shopLink2 = "b";
-var shopLink3 = "c";
-var shopLink4 = "d";
-var shopLink5 = "e";
 
 if(hyungu.innerHTML == "당신의 고유 MBTI는... ISTJ_1000"){
   shopLink0 = "https://etfdiy.imweb.me/search?type=shopping&sort=time_desc&keyword=ISTJ_1000";
