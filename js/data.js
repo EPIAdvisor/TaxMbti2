@@ -327,6 +327,7 @@ const infoList5 = [
     from: 0,
     to: 0,
     name: 'S',
+    name2: 'S',
     desc: '- S: 가치주 투자자로 저평가된 주식을 선호합니다.',
     desc2: '',
     link: ''
@@ -334,6 +335,7 @@ const infoList5 = [
   {
     from: 1,
     to: 1, 
+    name: 'N',
     name: 'N',
     desc: '- N: 성장주 투자자로 성장성이 높은 주식을 선호합니다.',
     desc2: '',
