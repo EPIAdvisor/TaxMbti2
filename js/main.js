@@ -3417,18 +3417,7 @@ if(hyungu.innerHTML == "당신의 고유 MBTI는... ENFP_4443"){
 
 const hyungyuLink0 = document.querySelector(".hyungyuLink0");
 hyungyuLink0.setAttribute("href",shopLink0);
-const hyungyuLink1 = document.querySelector(".hyungyuLink1");
-hyungyuLink1.setAttribute("href",shopLink1);
-const hyungyuLink2 = document.querySelector(".hyungyuLink2");
-hyungyuLink2.setAttribute("href",shopLink2);
-const hyungyuLink3 = document.querySelector(".hyungyuLink3");
-hyungyuLink3.setAttribute("href",shopLink3);
-const hyungyuLink4 = document.querySelector(".hyungyuLink4");
-hyungyuLink4.setAttribute("href",shopLink4);
-const hyungyuLink5 = document.querySelector(".hyungyuLink5");
-hyungyuLink5.setAttribute("href",shopLink5);
-  
- 
+
   setTimeout(() => {
     header.style.display = 'block';
     footer.style.display = 'block';
