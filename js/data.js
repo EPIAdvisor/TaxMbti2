@@ -2,28 +2,28 @@ const qnaList = [
   {
     q: '1. 둘 중 하나만 투자한다면?',
     a: [
-      { answer: 'a. 금 (93.85%)', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 비트코인 (49.95%)', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 금', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 비트코인', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
     q: '2. 둘 중 하나만 투자한다면?',
     a: [
-      { answer: 'a. 미국 국채 (39.07%)', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'a. 미국 국채', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
       { answer: 'b. 테슬라', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
     q: '3. 둘 중 하나만 투자한다면?',
     a: [
-      { answer: 'a. 금 (93.85%)', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
-      { answer: 'b. 유가 (85.75%)', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 }
+      { answer: 'a. 금', score: 0, score2: 0, score3: 0, score4: 0, score5: 0 },
+      { answer: 'b. 유가', score: 10, score2: 0, score3: 0, score4: 0, score5: 0 }
     ]
   },
   {
     q: '4. 둘 중 하나만 투자한다면?',
     a: [
-      { answer: 'a. S&P 500 (58.47%)', score: 0, score5: 0, score2: 0, score3: 0, score4: 0 },
+      { answer: 'a. S&P 500', score: 0, score5: 0, score2: 0, score3: 0, score4: 0 },
       { answer: 'b. 나스닥', score: 10, score5: 1, score2: 0, score3: 0, score4: 0 }
     ]
   },
